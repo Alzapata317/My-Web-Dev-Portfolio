@@ -1,0 +1,23 @@
+header {
+    background-color: blue;
+    color: white;
+    padding: 20px;
+}
+h1 {
+    font-size: 200%;
+    display: inline-block;
+}
+nav {
+    float: right;
+    padding: 5px;
+}
+nav ul {
+    list-style-type: none;    
+}
+nav ul li {
+    display: inline-block;
+    margin-left: 40px;
+    font-size: 22px;
+
+}
+
